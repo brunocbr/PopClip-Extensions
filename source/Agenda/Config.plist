@@ -17,7 +17,7 @@
     </dict>
     </array>
     <key>Extension Description</key>
-    <string>Apprend to note named Inbox in the Agenda as a task</string>
+    <string>Append task to note named Inbox in the Agenda</string>
     <key>Extension Identifier</key>
     <string>br.com.brunoc.popclip.extension.Agenda</string>
       <key>Extension Name</key>
