@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>note by Rflor from the Noun Project.png</string>
+			<key>URL</key>
+			<string>thearchive://match/{popclip text}</string>
+			<key>Title</key>
+			<string>Open in The Archive</string>
+			<key>Regular Expression</key>
+			<string>\b([0-9]{3,})\b</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Bundle Identifier</key>
+			<string>de.zettelkasten.TheArchive</string>
+			<key>Check Installed</key>
+			<true/>
+			<key>Link</key>
+			<string>https://zettelkasten.de/the-archive</string>
+			<key>Name</key>
+			<string>The Archive</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Open Zettel in The Archive</string>
+	<key>Extension Identifier</key>
+	<string>br.com.brunoc.popclip.thearchive</string>
+	<key>Extension Name</key>
+	<string>Open in The Archive</string>
+</dict>
+</plist>
